@@ -26,7 +26,7 @@ img{
     border: none;
     border-radius: 100%;
     position: absolute;
-    top: 40%;
+    top: 34%;
     left: 42%;
     cursor: pointer;
 }
@@ -52,3 +52,37 @@ img{
 .top p{
     color:#747e88;
 }
+
+.bottom{
+   margin-top: 2rem;
+}
+.bottom .specialty-item{
+    margin-block: 2.3rem;
+}
+
+.bottom .specialty-item .specialty-icon-item{
+    display: flex;
+    gap: 2rem;
+}
+.specialty-icon-item .icon{
+    font-size: 2.1875rem;
+    margin-top: 1rem;
+    padding: 13px 15px;
+    width: 90px;
+    height: 70px;
+    color: #283747;
+    border-radius: 100%;
+    box-shadow: 0px 3px 6px rgba(158, 143, 143, 0.687);
+}
+.specialty-icon-item .item h4,p{
+    padding: 5px;
+    color: #283747;
+}
+.specialty-icon-item .item h4 {
+    font-size: 1.5625rem;
+    font-weight: 500;
+}
+
+
+
+
