@@ -120,7 +120,6 @@ img{
     border-radius: 10px 10px 0px 0px;
 }
 .expert-people h3{
-    margin-top: 1rem;
     font-size: 1.375rem;
     font-weight: 500;
     color: #283747;
@@ -129,10 +128,9 @@ img{
     color: #747e88;
     font-weight: 400;
 }
-.expert-people h3 , p{
+.expert-people .names-title{
     padding: 30px 10px;
 }
-
 
 
 
