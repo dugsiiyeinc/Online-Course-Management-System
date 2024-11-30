@@ -131,6 +131,10 @@ img{
 .expert-people .names-title{
     padding: 30px 10px;
 }
+.expert-people:hover{
+    box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
+    transition: all 8ms ease-in;
+}
 
 
 
