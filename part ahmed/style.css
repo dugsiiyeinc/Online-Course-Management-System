@@ -10,6 +10,7 @@ body{
 .container{
     width: min(90%, 1110px);
     margin-inline: auto;
+    
 }
 img{
     width: 100%;
