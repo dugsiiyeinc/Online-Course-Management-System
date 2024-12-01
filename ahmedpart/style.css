@@ -152,6 +152,7 @@ img{
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    margin-bottom: 2rem;
 }
 .main-7 .PHOTO img:nth-child(1){
     width: 5.9375rem;
@@ -160,6 +161,13 @@ img{
 .main-7 .PHOTO img{
     width: 66px;
     border-radius: 50%;
+}
+.tersimonal-main7{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    text-align: center;
+    width: 50%;
 }
 
 
