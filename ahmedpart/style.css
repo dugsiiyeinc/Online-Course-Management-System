@@ -197,7 +197,7 @@ img{
     margin: 0 5px;
     border-radius: 3px;
     cursor: pointer;
-    transition: all 0.3s ease-out 0s;
+    transition: all 0.4s ease-out 0s;
 }
 .btn-control button:hover{
     background-color: #f2a92c;
