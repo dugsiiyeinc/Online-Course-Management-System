@@ -225,7 +225,6 @@ img{
 .main-8 .blog .blog-items{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 1rem
-    ;
+    gap: 1rem;
 }
 
