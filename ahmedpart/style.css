@@ -139,6 +139,7 @@ img{
 .main-7{
  display: flex;
  flex-direction: column;
+ background-color:#fbfbfb;
 }
 .main-7 h1{
     text-align: center;
@@ -152,6 +153,7 @@ img{
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    margin-bottom: 2rem;
 }
 .main-7 .PHOTO img:nth-child(1){
     width: 5.9375rem;
@@ -161,5 +163,27 @@ img{
     width: 66px;
     border-radius: 50%;
 }
-
+.tersimonal-main7{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    text-align: center;
+    color: #283747;
+}
+.tersimonal-main7 h3{
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+}
+.tersimonal-main7 h4{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #747e88;
+    margin-bottom: 1.2rem;
+}
+.tersimonal-main7 p{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
 
