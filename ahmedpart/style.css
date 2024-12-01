@@ -15,6 +15,7 @@ body{
 img{
     width: 100%;
 }
+/* Main 5 */
 .main-grid{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -88,6 +89,7 @@ img{
     font-size: 1.5625rem;
     font-weight: 500;
 }
+/* Main 6 */
 .main-6{
     margin-top: 15rem;
 }
@@ -136,6 +138,7 @@ img{
     box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
     transition: width 10ms ease-in;
 }
+/* Main 7 */
 .main-7{
     background-color:#fbfbfb;
     margin-top: 6rem;
@@ -203,5 +206,26 @@ img{
     background-color: #f2a92c;
     color: #ffff;
 }
-
+/* main 8 */
+.main-8{
+    margin-top: 8.75rem;
+    padding: 0;
+}
+.main-8 .blog-test h1{
+    font-size: 2.8125rem;
+    font-weight: 600;
+    color: #283747;
+    margin-bottom: 1.25rem;
+}
+.main-8 .blog-test p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #747e88;
+}
+.main-8 .blog .blog-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem
+    ;
+}
 
