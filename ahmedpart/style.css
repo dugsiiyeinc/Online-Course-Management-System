@@ -8,7 +8,7 @@ body{
     font-family: "Poppins", serif;
 }
 .container{
-    width: min(90%, 1110px);
+    width: min(90%, 1210px);
     margin-inline: auto;
     
 }
@@ -267,10 +267,9 @@ img{
 .main-8 .blog .blog-items .blog-item .image-blog img{
     width: 100%;
     height: 100%;
-    transition: transfrom 8ms;
-}
+    transition: transform 0.3s ease-out 0s;}
 .main-8 .blog .blog-items .blog-item .image-blog img:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
     cursor: pointer;
 }
 .main-8 .blog .blog-items .blog-item .blog-sp{
