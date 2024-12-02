@@ -212,7 +212,7 @@ img{
     padding: 0;
 }
 .main-8 .blog-test h1{
-    font-size: 2.8125rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: #283747;
     margin-bottom: 1.25rem;
@@ -221,11 +221,45 @@ img{
     font-size: 1rem;
     font-weight: 400;
     color: #747e88;
+    /* margin-bottom: 2rem; */
+    padding: 0%;
 }
 .main-8 .blog .blog-items{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 1rem
-    ;
+    gap: 1rem;
+    margin-bottom: 4rem;
+    width: 100%;
+}
+.main-8 .blog .blog-items .blog-item{
+    box-shadow: 0px 2px 5px rgba(236, 234, 234, 0.8);
+    border-radius: 10px;
+}
+.main-8 .blog .blog-items .blog-item:hover{
+    box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
+    transition: width 10ms ease-in;
 }
 
+.main-8 .blog .blog-items .blog-item .blog-sp h2,a{
+    color: #283747;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 0.9rem;
+}
+.main-8 .blog .blog-items .blog-item .blog-sp h2,a:hover{
+    color: #F2A92C;
+    transition: all 0.3s ease-out 0s;
+}
+.main-8 .blog .blog-items .blog-item p{
+    font-size: 1rem;
+    color: #747e88;
+    font-weight: 400;
+    padding: 0;
+}
+.main-8 .blog .blog-items .blog-item img{
+    border-radius: 10px 10px 0px 0px;
+}
+.main-8 .blog .blog-items .blog-item .blog-sp{
+    padding: 25px 20px;;
+}
