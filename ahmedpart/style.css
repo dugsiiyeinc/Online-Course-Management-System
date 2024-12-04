@@ -282,12 +282,12 @@ img{
 }
 .contant-area{
     position: relative;
-    /* padding: 120px 0;; */
+    padding: 120px 0;;
 }
 .contant-menu{
     position: absolute;
     top: 20%;
-    left: 10%;
+    left: 15%;
     z-index: 1;
     display: flex;
     gap: 6rem
@@ -319,4 +319,15 @@ img{
 .contant-menu .text-contant .line-call h4 a:hover{
     color: #024dbc;
     transition: all 3ms ease-in-out;
+}
+.form-contant{
+    width: 741.349px;
+    height: 454.801px;
+}
+.row input ,textarea {
+    width: 100%;
+    padding: 16px 20px;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+    color:#747e88;
 }
