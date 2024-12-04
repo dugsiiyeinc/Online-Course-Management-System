@@ -412,3 +412,28 @@ footer{
     color: #283747;
     margin-bottom: 1.8rem;
 }
+.footer-end{
+    border-top: 1px solid #747e88 ;
+    margin-top: 2rem;
+}
+.footer-end h5{
+    margin-block: 1.8rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #747e88;
+}
+.icon-ftr .icn li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 632.017px;
+}
+.icon-ftr .icn li a{
+    display: flex;
+    flex-direction: row;
+}
+.icon-ftr .icn li a i{
+    display: flex;
+
+}
