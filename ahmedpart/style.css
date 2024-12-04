@@ -363,3 +363,7 @@ img{
 #btn-input:hover{
     background-color: #F3B242;
 }
+/* footer */
+footer{
+    padding: 3rem;
+}
