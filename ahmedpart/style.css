@@ -290,8 +290,7 @@ img{
     left: 10%;
     z-index: 1;
     display: flex;
-    gap: 12rem
-;
+    gap: 6rem
 }
 .contant-menu .text-contant h1{
     font-size: 2.8125rem;
@@ -304,14 +303,20 @@ img{
     font-weight: 400;
     color: #747e88;
     margin-bottom: 3.75rem;
+    padding: 0%;
 }
 .contant-menu .text-contant .line-call h3{
     font-size: 1.875rem;
     font-weight: 500;
     color: #283747;
+    margin-bottom: 20px;
 }
 .contant-menu .text-contant .line-call h4{
     font-size: 1.5625rem;
     font-weight: 500;
+    margin-bottom: 20px;
 }
-
+.contant-menu .text-contant .line-call h4 a:hover{
+    color: #024dbc;
+    transition: all 3ms ease-in-out;
+}
