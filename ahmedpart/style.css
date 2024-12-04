@@ -81,7 +81,8 @@ img{
     border-radius: 50%;
     box-shadow: 0px 14px 33px rgba(229, 229, 229, 0.8);
 }
-.specialty-icon-item .item h4,p{
+.specialty-icon-item .item h4,
+.specialty-icon-item .item p{
     padding: 5px;
     color: #283747;
 }
@@ -235,7 +236,8 @@ img{
     border-radius: 10px;
 }
 
-.main-8 .blog .blog-items .blog-item:hover , img{
+.main-8 .blog .blog-items .blog-item:hover ,
+.main-8 .blog .blog-items .blog-item:hover img{
     box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
     transition: width 10ms ease-in;
 }
@@ -335,7 +337,7 @@ img{
     width: 100%;
     padding: 16px 20px;
     border-radius: 5px;
-    border: 1px solid #ececec;
+    border: 1px solid #8a8888;
     color:#747e88;
     font-size: 1rem;
     margin-bottom: 20px;
@@ -362,4 +364,81 @@ img{
 }
 #btn-input:hover{
     background-color: #F3B242;
+}
+/* footer */
+footer{
+    padding-top: 20px;
+}
+.logo img{
+    box-shadow: none;
+    width: auto;
+}
+.foot-gifl{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.footer-widget-1{
+    margin-right: 109.332px;
+}
+.footer-widget-1 p{
+    line-height: 26px;
+    font-size: 1rem;
+    color: #747e88;
+    margin: 0;
+    font-weight: 400;
+}
+.footer-wid{
+    display: flex;
+    gap: 6rem;
+    text-align: left;
+}
+.ftr ul li ,
+.ftr ul li a{
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #747e88;
+    line-height: 35px;
+}
+.ftr ul li a:hover{
+    color: #F2A92C;
+    transition: all 0.3ms ease-in;
+    cursor: pointer;
+
+}
+.ftr h5{
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #283747;
+    margin-bottom: 1.8rem;
+}
+.footer-end{
+    border-top: 1px solid #747e88 ;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-end h5{
+    margin-block: 1.8rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #747e88;
+    display: inline;
+}
+.icon-ftr .icn{
+    display: flex;
+    margin-top: 1.2rem;
+    gap: 1.5rem;
+    color: #747e88;
+}
+.icon-ftr .icn li i{
+    color: #747e88;
+    font-size: 1rem;
+}
+.icon-ftr .icn li i:hover{
+    color: #F2A92C;
+}
+.icon-ftr .icn li {
+    list-style: none;
+    display: flex;
 }
