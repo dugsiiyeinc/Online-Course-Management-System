@@ -10,7 +10,6 @@ body{
 .container{
     width: min(90%, 1210px);
     margin-inline: auto;
-    
 }
 img{
     width: 100%;
@@ -291,7 +290,7 @@ img{
 .contant-menu{
     position: absolute;
     top: 20%;
-    left: 15%;
+    /* left: 15%; */
     z-index: 1;
     display: flex;
     margin-top: 2rem;
