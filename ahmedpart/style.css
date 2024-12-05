@@ -337,7 +337,7 @@ img{
     width: 100%;
     padding: 16px 20px;
     border-radius: 5px;
-    border: 1px solid #ececec;
+    border: 1px solid #8a8888;
     color:#747e88;
     font-size: 1rem;
     margin-bottom: 20px;
@@ -367,7 +367,7 @@ img{
 }
 /* footer */
 footer{
-    padding-top: 170px;
+    padding-top: 20px;
 }
 .logo img{
     box-shadow: none;
@@ -415,25 +415,30 @@ footer{
 .footer-end{
     border-top: 1px solid #747e88 ;
     margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
 }
 .footer-end h5{
     margin-block: 1.8rem;
     font-size: 1rem;
     font-weight: 300;
     color: #747e88;
+    display: inline;
+}
+.icon-ftr .icn{
+    display: flex;
+    margin-top: 1.2rem;
+    gap: 1.5rem;
+    color: #747e88;
+}
+.icon-ftr .icn li i{
+    color: #747e88;
+    font-size: 1rem;
+}
+.icon-ftr .icn li i:hover{
+    color: #F2A92C;
 }
 .icon-ftr .icn li {
     list-style: none;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    width: 632.017px;
-}
-.icon-ftr .icn li a{
-    display: flex;
-    flex-direction: row;
-}
-.icon-ftr .icn li a i{
-    display: flex;
-
 }
