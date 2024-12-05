@@ -463,6 +463,7 @@ footer{
         flex-direction: column;
         width: auto;
     }
+
     /* .main-8 .blog .blog-items .blog-item p{
         max-width: 400px;
     } */
@@ -499,7 +500,7 @@ footer{
     .contant-menu{
         display: flex;
         flex-direction: column;
-        top: 12%;
+        top: 10%;
     }
     .row input,
     .row textarea {
@@ -507,6 +508,7 @@ footer{
     }
     .row textarea{
         height: 100px;
+        margin-bottom: 10px;
     }
     .row #subject,
     .row .input-top,
@@ -521,4 +523,18 @@ footer{
     .contant-menu .text-contant p{
         margin-bottom: 2.4rem;
     }
+    .foot-gifl{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+    }
+    .footer-wid{
+        flex-direction: column;
+    }
+    #btn-input{
+        display: flex;
+        justify-content: flex-start;
+        left: 34%;
+    }
+
 }
