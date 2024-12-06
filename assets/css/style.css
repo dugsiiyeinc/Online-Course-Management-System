@@ -1331,7 +1331,5 @@ footer{
 /* ====== Large Screens ============= */
 
 @media(min-width:1025px){
-    .header .container .nav-menu{
-        /* display: none; */
-    }
+   
 }
