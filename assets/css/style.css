@@ -163,7 +163,7 @@ h1{
     flex-direction: column;
     justify-content:center;
     align-items: start;
-    margin-top: 70px;
+    margin-top: 65px;
     /* position: absolute; */
     /* right: 4%; */
     /* top: 100px; */
@@ -172,7 +172,7 @@ h1{
     font-size: 55px;
     font-weight: 700;
     line-height: 65px;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.3px;
     color: var(--white-color);
     text-align: left;
     margin-bottom: 30px;
@@ -180,11 +180,11 @@ h1{
 #hero .hero-content p{
     font-size: 18px;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 25px;
     letter-spacing: 1px;
     color: var(--white-color);
     text-align: left;
-    margin-bottom: 35px;
+    margin-bottom: 32px;
 }
 #hero .hero-content .btn-course{
     background: var(--white-color);
@@ -400,6 +400,460 @@ gap:30px;
     font-weight: 500;
 }
 
+.to-top .icon{
+    width: 45px;
+    height: 45px;
+    position: fixed;
+    bottom: 10%;
+    right: 2%;
+    text-align: center;
+    background-color: var(--link-colors);
+}
+.to-top .icon a{
+    font-size: 20px;
+    /* text-align: center; */
+}
+
+
+
+
+/* ========= Form Ahmed Part =========== */
+
+
+/* Main 5 */
+.main-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+.video-side{
+    position: relative;
+    top: 3%;
+    margin-top: 2rem;
+}
+.video-btn{
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    top: 34%;
+    left: 42%;
+    cursor: pointer;
+}
+.video-btn i{
+    color: #F2A92C;
+    font-size: 2rem;
+}
+.video-btn:hover{
+    background-color: rgba(255, 255, 255, 0.8);
+    transition: all ease-in-out 3ms;
+}
+.main-deffrence{
+    padding: 1rem;
+    margin-right: 5rem;
+}
+.top h1{
+    font-size: 2.8125rem;
+    font-weight: 600;
+    color: #283747;
+    line-height: 3.4375rem;
+    margin-bottom: 1.2rem;
+}
+.top p{
+    color:#747e88;
+}
+
+.bottom{
+   margin-top: 2rem;
+}
+.bottom .specialty-item{
+    margin-block: 2.1rem;
+}
+
+.bottom .specialty-item .specialty-icon-item{
+    display: flex;
+    gap: 2rem;
+}
+.specialty-icon-item .icon{
+    font-size: 2.1875rem;
+    margin-top: 1rem;
+    padding: 13px 15px;
+    text-align: center;
+    width: 80px;
+    height: 74px;
+    color: #283747;
+    border-radius: 50%;
+    box-shadow: 0px 14px 33px rgba(229, 229, 229, 0.8);
+}
+.specialty-icon-item .item p{
+    padding: 5px;
+    color:#747e88;
+}
+.specialty-icon-item .item h4 {
+    font-size: 1.5625rem;
+    font-weight: 500;
+    padding: 5px;
+    color: #283747;
+}
+/* Main 6 */
+.main-6{
+    margin-top: 15rem;
+}
+.title-expert{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+}
+.title-expert h1{
+    font-size: 2.8125rem;
+    font-weight: 600;
+    color: #283747;
+}
+.title-expert p{
+    color: #747e88;
+    margin-bottom: 3rem;
+}
+.expert{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    flex-direction: row;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+.expert-people{
+    text-align: center;
+    box-shadow: 0px 2px 5px rgba(236, 234, 234, 0.8);
+}
+.expert-people img{
+    border-radius: 10px 10px 0px 0px;
+}
+.expert-people h3{
+    font-size: 1.375rem;
+    font-weight: 500;
+    color: #283747;
+}
+.expert-people p{
+    color: #747e88;
+    font-weight: 400;
+}
+.expert-people .names-title{
+    padding: 30px 10px;
+}
+.expert-people:hover{
+    box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
+    transition: width 10ms ease-in;
+}
+/* Main 7 */
+.main-7{
+    background-color:#fbfbfb;
+    margin-top: 6rem;
+    padding-block: 3rem;
+}
+.main-7 h1{
+    text-align: center;
+    font-size: 2.8125rem;
+    font-weight: 600;
+    color: #283747;
+    margin-bottom: 2rem;
+}
+.main-7 .PHOTO{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+.main-7 .PHOTO img:nth-child(1){
+    width: 5.9375rem;
+    height: 5.9375rem;
+}
+.main-7 .PHOTO img{
+    width: 66px;
+    border-radius: 50%;
+}
+.tersimonal-main7{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #283747;
+}
+.tersimonal-main7 h3{
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+}
+.tersimonal-main7 h4{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #747e88;
+    margin-bottom: 1.2rem;
+}
+.tersimonal-main7 p{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.btn-control{
+    text-align: center;
+    margin-top: 3.125rem;
+}
+.btn-control button{
+    border: none;
+    background: rgba(242, 169, 44, 0.15);
+    padding: 14px 18px;
+    color: #F2A92C;
+    margin: 0 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.4s ease-out 0s;
+}
+.btn-control button:hover{
+    background-color: #f2a92c;
+    color: #ffff;
+}
+/* main 8 */
+.main-8{
+    margin-top: 8.75rem;
+    padding: 0;
+}
+.main-8 .blog-test h1{
+    font-size: 2.8125rem;
+    font-weight: 600;
+    color: #283747;
+    margin-bottom: 1.25rem;
+}
+.main-8 .blog-test p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #747e88;
+    margin-bottom: 2rem;
+    padding: 0%;
+}
+.main-8 .blog .blog-items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    margin-bottom: 4rem;
+    width: 100%;
+}
+.main-8 .blog .blog-items .blog-item{
+    box-shadow: 0px 2px 5px rgba(236, 234, 234, 0.8);
+    border-radius: 10px;
+}
+
+.main-8 .blog .blog-items .blog-item:hover ,
+.main-8 .blog .blog-items .blog-item:hover img{
+    box-shadow: 0px 2px 5px rgba(218, 210, 210, 0.8);
+    transition: width 10ms ease-in;
+}
+
+.main-8 .blog .blog-items .blog-item .blog-sp h2 a{
+    color: #283747;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 0.9rem;
+}
+.main-8 .blog .blog-items .blog-item .blog-sp h2 a:hover{
+    color: #F2A92C;
+    transition: all 0.3s ease-out 0s;
+}
+.main-8 .blog .blog-items .blog-item p{
+    font-size: 1rem;
+    color: #747e88;
+    font-weight: 400;
+    padding: 0;
+    word-break: break-word;
+}
+.main-8 .blog .blog-items .blog-item .image-blog{
+    overflow: hidden;
+    width: 413.333px;
+    height: 206.667px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.main-8 .blog .blog-items .blog-item .image-blog img{
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease-out 0s;
+}
+.main-8 .blog .blog-items .blog-item .image-blog img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.main-8 .blog .blog-items .blog-item .blog-sp{
+    padding: 25px 20px;;
+}
+/* contact */
+.content-img img{
+    width: 100%;
+    background-color: #fbfbfb;
+    box-shadow: none;
+}
+.contant-area{
+    position: relative;
+    padding: 120px 0;
+}
+.contant-menu{
+    position: absolute;
+    top: 20%;
+    /* left: 15%; */
+    z-index: 1;
+    display: flex;
+    margin-top: 2rem;
+    width: auto;
+}
+.contant-menu .text-contant{
+    width: 100%;
+}
+.contant-menu .text-contant h1{
+    font-size: 2.8125rem;
+    color: #283747;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.contant-menu .text-contant p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #747e88;
+    margin-bottom: 3.75rem;
+    padding: 0%;
+}
+.contant-menu .text-contant .line-call h3{
+    font-size: 1.875rem;
+    font-weight: 500;
+    color: #283747;
+    margin-bottom: 20px;
+}
+.contant-menu .text-contant .line-call h4{
+    font-size: 1.5625rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.contant-menu .text-contant .line-call h4 a:hover{
+    color: #024dbc;
+    transition: all 3ms ease-in-out;
+}
+.form-contant{
+    width: 741.349px;
+    height: 454.801px;
+    flex: 0 0 auto;
+}
+.row input,
+.row textarea {
+    width: 100%;
+    padding: 16px 20px;
+    border-radius: 5px;
+    border: 1px solid #D6D6D6;
+    color:#747e88;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease-in-out;
+}
+.row .input-top {
+    width: 49.66%;
+}
+.row input:focus,
+.row textarea:focus{
+    border-color:#f2a92c;
+    outline: none;
+}
+#btn-input{
+    width: 15%;
+    position: relative;
+    right: 0;
+    top: 50%;
+    left: 86%;
+    cursor: pointer;
+    color: #ffff;
+    background-color: #F2A92C;
+    transition: btn-input 0.3s ease;
+}
+#btn-input:hover{
+    background-color: #F3B242;
+}
+/* footer */
+footer{
+    padding-top: 20px;
+}
+.logo img{
+    box-shadow: none;
+    width: auto;
+}
+.foot-gifl{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 1rem;
+}
+.footer-widget-1{
+    grid-column:  1 / span 2;
+}
+.footer-widget-1 p{
+    line-height: 26px;
+    font-size: 1rem;
+    color: #747e88;
+    margin: 0;
+    font-weight: 400;
+}
+.ftr ul li ,
+.ftr ul li a{
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #747e88;
+    line-height: 35px;
+}
+.ftr ul li a:hover{
+    color:#F2A92C;
+    transition: all 0.3ms ease-in;
+    cursor: pointer;
+
+}
+.ftr h5{
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #283747;
+    margin-bottom: 1.4rem;
+}
+.footer-end{
+    border-top: 1px solid #747e88 ;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-end h5{
+    margin-block: 1.8rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #747e88;
+    display: inline;
+}
+.icon-ftr .icn{
+    display: flex;
+    margin-top: 1.2rem;
+    gap: 1.5rem;
+    color: #747e88;
+}
+.icon-ftr .icn li i{
+    color: #747e88;
+    font-size: 1rem;
+}
+.icon-ftr .icn li i:hover{
+    color: #F2A92C;
+}
+.icon-ftr .icn li {
+    list-style: none;
+    display: flex;
+}
+
+
+
+
+/* ========= Form Ahmed Part =========== */
+
+
+
 @media(max-width:480px){
     .header .container .nav-menu{
         display: none;
@@ -435,9 +889,7 @@ gap:30px;
         align-items: center;
     }
     #hero .hero-content{
-        /* width: 50%; */
         right: 30%;
-        /* text-align: center; */
     }
     #hero .hero-content h1{
         font-size: 42px;
@@ -473,6 +925,92 @@ gap:30px;
         grid-template-columns: 1fr;
         gap:30px;
     }
+
+
+    /* ============Ahmed Part ============= */
+    
+    .main-grid{
+        grid-template-columns: 1fr;
+    }
+    .video-side{
+        width: 98%;
+        order: 2;
+        margin-top: 0;
+    }
+    .video-side img{
+        width: 100%;
+        order: 2;
+        margin-top: 0;
+    }
+    .main-deffrence {
+        margin-left: 3rem;
+    }
+    .expert{
+        grid-template-columns: 1fr;
+    }
+    .bottom .specialty-item .specialty-icon-item{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .main-8 .blog .blog-items{
+        grid-template-columns: 1fr;
+    }
+    .main-8 .blog .blog-items .blog-item .image-blog{
+        width: 100%;
+        height: auto;
+        /* width: 500px; */
+    }
+    .content-img{
+        height: 100%;
+    }
+    .contant-menu{
+        display: flex;
+        flex-direction: column;
+        top: 10%;
+        width: 90%;
+    }
+    .row input,
+    .row textarea {
+       padding: 10px 15px;
+       width: 100%;
+    }
+    .row textarea{
+        height: 100px;
+        margin-bottom: 10px;
+    }
+    .row #subject,
+    .row .input-top,
+    .row textarea
+    {
+        width: 70%;
+    }
+    .content-img img{
+        height: 700px;
+        padding-bottom: 3rem;
+    }
+    .contant-menu .text-contant p{
+        margin-bottom: 2.4rem;
+    }
+    .foot-gifl{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    .footer-widget-1{
+        grid-column: auto;
+    }
+    #btn-input{
+        width: 20%;
+        display: flex;
+        justify-content: flex-start;
+        left: 34%;
+    }
+    .form-contant{
+        width: auto;
+    }
+
+    /* ============Ahmed Part ============= */
    
     
 
@@ -512,10 +1050,12 @@ gap:30px;
         align-items: center;
     }
     #hero .hero-content{
+        padding: 50px ;
         width: 80%;
         right: 30%;
     }
     #hero .hero-content h1{
+        margin-top: 100px;
         font-size: 50px;
         letter-spacing: 1.3;
     }
@@ -549,6 +1089,81 @@ gap:30px;
         grid-template-columns: repeat(3, 1fr);
         gap:30px;
     }
+
+
+
+    /* ================ From Ahmed Part =================== */
+    .main-grid{
+        grid-template-columns: 1fr;
+    }
+    .video-side{
+        order: 2;
+        margin-top: 0;
+    }
+    .expert{
+        grid-template-columns: 1fr 1fr;
+    }
+    .main-8 .blog .blog-items{
+        grid-template-columns: 1fr 1fr;
+    }
+    .contant-menu{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+    .main-deffrence{
+        margin-left: 3rem;
+    }
+    .main-8 .blog .blog-items .blog-item .image-blog{
+        width: 100%;
+        height: auto;
+        /* width: 500px; */
+    }
+    .contant-menu{
+        display: flex;
+        flex-direction: column;
+        top: 10%;
+        max-width: 100%;
+    }
+    .form-contant{
+        width: auto;
+    }
+    .row input,
+    .row textarea {
+       padding: 10px 15px;
+       width: 100%;
+    }
+    .row textarea{
+        height: 100px;
+        margin-bottom: 10px;
+    }
+    .row #subject,
+    .row .input-top,
+    .row textarea
+    {
+        width: 120%;
+    }
+    .content-img img{
+        height: 700px;
+        padding-bottom: 3rem;
+    }
+    .contant-menu .text-contant p{
+        margin-bottom: 2.4rem;
+    }
+    #btn-input{
+        display: flex;
+        justify-content: flex-start;
+        left: 34%;
+    }
+    .foot-gifl{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    .footer-widget-1{
+        grid-column: 1 / span 1
+    }
+    /* ================ From Ahmed Part =================== */
    
     
 
