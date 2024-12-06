@@ -1,94 +1,108 @@
+Here's the updated README with the new color palette applied:  
 
 ---
 
-# Online Course Management System
-Welcome to our Online Course Management System! This platform is designed to streamline course management, featuring sections such as Home, Contact, About, Courses, Announcements, and Support. Our aim is to provide an intuitive and user-friendly system for managing online learning effectively.
-
-## Project Overview 
-
-This project is developed by batch Two of Group c, consisting of the following members:
-
-- `Eng Omartood` - Coordinating the project and managing the team.
-```bash
-
-1. Ahmed Abdisalaan Salah
-
-2. Guutale
-```
-Our mentor for this project is - `Omartood` -.
-
-## Website Sections
-
-- Home: The landing page that provides an overview of our platform and its features.
-- Contact: A page where users can reach out to us for any inquiries or support.
-- About: Information about our team and the mission of our project.
-- Courses: The main section where users can browse and enroll in various courses. It includes subpages for course details and pricing.
-- Mentors: Updates and news related to our platform and courses.
-- Support: A page where users can access help and resources related to the system.
-
-## Features
-
-- Browse courses by category 
-
-- View course details and pricing
-
-- Enroll in courses easily
-
-- Contact form for inquiries
-
-- Regular announcements and updates
-
-## Screenshot
-<img src="image-1.jpeg" width=200 height=200>
-
-## FAQ
-
-#### Question 1: How can I browse courses on the platform?
-
-A: Visit the "Courses" section to explore our range of educational offerings categorized for easy browsing.
-
-#### Question 2: How can I contact customer support?
-
-A: Use the "Contact" section to reach out to us with any questions or issues you have.
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary    Color | ![#F2A92C](https://via.placeholder.com/10/0a192f?text=+) #F2A92C |
-| Secondary  Color | ![#283747](https://via.placeholder.com/10/f8f8f8?text=+) #283747 |
-| Background Color | ![#eb5757](https://via.placeholder.com/10/00b48a?text=+) #eb5757 |
-| Text       Color | ![#747e88](https://via.placeholder.com/10/00b48a?text=+) #747e88 |
-
-## Acknowledgements
-
-We would like to express our gratitude to the following individuals and organizations for their support and contributions to this project:
-
-### Team Members
--  Guutale: For leading the group and ensuring all aspects of the project are on track. Worked on the "Courses" and "Support" pages.
-- Ahmed Abdisalaan Salah: For his work on Home and About pages, ensuring a cohesive user experience.
-
-## Mentors and Advisors
-- `Omar tood`: For providing guidance, feedback, and encouragement throughout the project.
-
-## Tools and Resources
-*WhatFont*: For helping us identify and select fonts that enhance the visual appeal of our platform.  
-*ColorZilla*: For enabling precise color selection and ensuring a consistent color scheme.
-
-## Special Thanks 
-*Vercel App Hosting Services*: For providing hosting solutions that helped us test and deploy our platform.  
-*All Mentors*: For their invaluable guidance and support throughout the project.
-
-## Tech Used
-
-**Frontend:** HTML, CSS, JavaScript
-
-## Deployment
-
-To deploy this project, visit:
-
-```bash
-https://acme-lake.vercel.app/
-```
+# Online Course Management System  
+Welcome to the **Online Course Management System**, a platform built to simplify online learning and course management. Our goal is to provide a seamless experience for users to explore, enroll in, and manage courses while staying updated through our blog and mentor guidance.  
 
 ---
+
+## Project Overview  
+
+This project was developed by **batch two of Group C** to enhance access to quality online education.  
+
+### Team Members:  
+- **Guutale** – Team Leader, overseeing project coordination and development.  
+- **Ahmed Abdisalaan Salah** – Lead Developer, focused on backend and course management features.  
+
+**Mentor:**  
+- **Omartood** – Provided strategic advice and continuous support throughout the project.  
+
+---
+
+## Features  
+
+- **Course Management**: Easily browse and enroll in courses.  
+- **Blog**: Access articles and resources on online learning and education trends.  
+- **Mentors**: Discover experienced professionals offering guidance and support.  
+- **Responsive Design**: Compatible with desktop, tablet, and mobile devices.  
+- **Contact Form**: Reach out for inquiries and feedback.  
+
+---
+
+## Website Sections  
+
+### 1. **Home**  
+   The landing page introducing the platform, highlighting features and key benefits.  
+
+### 2. **About**  
+   Learn about the team and the mission driving this project.  
+
+### 3. **Courses**  
+   Browse a variety of courses categorized for ease of access, complete with details on content and enrollment.  
+
+### 4. **Mentors**  
+   Get insights into the professionals and advisors supporting learners through this platform.  
+
+### 5. **Blog**  
+   Explore articles, resources, and updates related to online education and course management.  
+
+### 6. **Contact**  
+   A dedicated page for users to reach out with questions, suggestions, or requests.  
+
+---
+
+## Visual Overview  
+
+### Screenshot  
+![Screenshot](image-1.jpeg)  
+
+---
+
+## Color Palette  
+
+| **Color**        | **Hex Code**                                                      |  
+|-------------------|------------------------------------------------------------------|  
+| Primary Color     | ![#F2A92C](https://via.placeholder.com/10/F2A92C?text=+) #F2A92C |  
+| Secondary Color   | ![#283747](https://via.placeholder.com/10/283747?text=+) #283747 |  
+| Background Color  | ![#eb5757](https://via.placeholder.com/10/eb5757?text=+) #eb5757 |  
+| Text Color        | ![#747e88](https://via.placeholder.com/10/747e88?text=+) #747e88 |  
+
+---
+
+## Deployment  
+
+The platform is hosted on **Vercel**. To explore the system, visit:  
+
+```bash  
+https://acme-lake.vercel.app/  
+```  
+
+---
+
+## Acknowledgements  
+
+We extend our gratitude to the following:  
+
+### **Team Members**  
+- **Guutale**: Led the project, ensuring smooth collaboration and development progress.  
+- **Ahmed Abdisalaan Salah**: Focused on backend functionalities and implementing the course enrollment system.  
+
+### **Mentor**  
+- **Omartood**: Offered strategic advice and mentorship throughout the project.  
+
+### **Tools & Resources**  
+- **WhatFont**: Helped us select fonts for consistent visual appeal.  
+- **ColorZilla**: Ensured color consistency across all sections of the website.  
+
+### **Special Thanks**  
+- **Vercel**: For providing reliable hosting solutions.  
+- **Advisors and Supporters**: For their encouragement and constructive feedback.  
+
+---
+
+## Tech Stack  
+
+- **Frontend**: HTML, CSS, JavaScript  
+
+---  
