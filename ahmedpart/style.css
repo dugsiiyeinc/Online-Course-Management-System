@@ -585,4 +585,7 @@ footer{
         justify-content: flex-start;
         left: 34%;
     }
+    .form-contant{
+        width: auto;
+    }
 }
