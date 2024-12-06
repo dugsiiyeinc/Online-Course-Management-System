@@ -8,10 +8,10 @@ Welcome to the **Online Course Management System**, a platform built to simplify
 
 ## Project Overview  
 
-This project was developed by **batch two of Group C** to enhance access to quality online education.  
+This project was developed by **batch three of Group C** to enhance access to quality online education.  
 
 ### Team Members:  
-- **Guutale** – Team Leader, overseeing project coordination and development.  
+- **Mohamed Hassan Farah** – Team Leader, overseeing project coordination and development.  
 - **Ahmed Abdisalaan Salah** – Lead Developer, focused on backend and course management features.  
 
 **Mentor:**  
@@ -84,7 +84,7 @@ https://acme-lake.vercel.app/
 We extend our gratitude to the following:  
 
 ### **Team Members**  
-- **Guutale**: Led the project, ensuring smooth collaboration and development progress.  
+- **Mohamed Hassan Farah**: Led the project, ensuring smooth collaboration and development progress.  
 - **Ahmed Abdisalaan Salah**: Focused on backend functionalities and implementing the course enrollment system.  
 
 ### **Mentor**  
