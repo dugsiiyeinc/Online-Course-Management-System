@@ -74,7 +74,7 @@ This project was developed by **batch three of Group C** to enhance access to qu
 The platform is hosted on **Vercel**. To explore the system, visit:  
 
 ```bash  
-https://acme-lake.vercel.app/  
+https://online-learning-one.vercel.app/  
 ```  
 
 ---
