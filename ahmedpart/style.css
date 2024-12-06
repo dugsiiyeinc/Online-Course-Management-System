@@ -382,7 +382,7 @@ footer{
     gap: 1rem;
 }
 .footer-widget-1{
-    grid-column: span 1 /2;
+    grid-column:  1 / span 2;
 }
 .footer-widget-1 p{
     line-height: 26px;
@@ -506,6 +506,14 @@ footer{
         justify-content: flex-start;
         left: 34%;
     }
+    .foot-gifl{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    .footer-widget-1{
+        grid-column: 1 / span 1
+    }
 
 }
 /* mobile responsive */
@@ -565,17 +573,16 @@ footer{
         margin-bottom: 2.4rem;
     }
     .foot-gifl{
-        display: flex;
-        flex-direction: column;
-        gap: 3rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
     }
-    .footer-wid{
-        flex-direction: column;
+    .footer-widget-1{
+        grid-column: auto;
     }
     #btn-input{
         display: flex;
         justify-content: flex-start;
         left: 34%;
     }
-
 }
