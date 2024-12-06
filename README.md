@@ -1,4 +1,3 @@
-Here's the updated README with the new color palette applied:  
 
 ---
 
