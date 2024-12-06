@@ -297,7 +297,7 @@ img{
     z-index: 1;
     display: flex;
     margin-top: 2rem;
-    width: 100%;
+    width: auto;
 }
 .contant-menu .text-contant{
     width: 522.662px;
@@ -378,10 +378,17 @@ footer{
 }
 .foot-gifl{
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    padding: 2rem;
+    color: white;
 }
-.footer-widget-1{
-    margin-right: 109.332px;
+.footer-widget-1,
+.footer-wid
+{
+    flex: 1 1 25%;
+    margin: 0.5rem;
+    /* margin-right: 109.332px; */
 }
 .footer-widget-1 p{
     line-height: 26px;
@@ -404,7 +411,7 @@ footer{
     line-height: 35px;
 }
 .ftr ul li a:hover{
-    color: #F2A92C;
+    color:#F2A92C;
     transition: all 0.3ms ease-in;
     cursor: pointer;
 
