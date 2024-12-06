@@ -23,7 +23,7 @@ Our mentor for this project is - `Omartood` -.
 - Contact: A page where users can reach out to us for any inquiries or support.
 - About: Information about our team and the mission of our project.
 - Courses: The main section where users can browse and enroll in various courses. It includes subpages for course details and pricing.
-- Announcements: Updates and news related to our platform and courses.
+- Mentors: Updates and news related to our platform and courses.
 - Support: A page where users can access help and resources related to the system.
 
 ## Features
@@ -69,7 +69,7 @@ We would like to express our gratitude to the following individuals and organiza
 - Ahmed Abdisalaan Salah: For his work on Home and About pages, ensuring a cohesive user experience.
 
 ## Mentors and Advisors
-- `Guutale`: For providing guidance, feedback, and encouragement throughout the project.
+- `Omar tood`: For providing guidance, feedback, and encouragement throughout the project.
 
 ## Tools and Resources
 *WhatFont*: For helping us identify and select fonts that enhance the visual appeal of our platform.  
