@@ -59,7 +59,6 @@ A: Use the "Contact" section to reach out to us with any questions or issues you
 | Secondary  Color | ![#283747](https://via.placeholder.com/10/f8f8f8?text=+) #283747 |
 | Background Color | ![#eb5757](https://via.placeholder.com/10/00b48a?text=+) #eb5757 |
 | Text       Color | ![#747e88](https://via.placeholder.com/10/00b48a?text=+) #747e88 |
-    283747;
 
 ## Acknowledgements
 
