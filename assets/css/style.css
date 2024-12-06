@@ -853,7 +853,7 @@ footer{
 /* ========= Form Ahmed Part =========== */
 
 
-
+/* ====== Mobile Screens ============= */
 @media(max-width:480px){
     .header .container .nav-menu{
         display: none;
@@ -1015,6 +1015,9 @@ footer{
     
 
 }
+
+/* ====== Tablet Screens ============= */
+
 @media(min-width:481px) and (max-width:768px){
     .header .container .nav-menu{
         display: none;
@@ -1167,4 +1170,168 @@ footer{
    
     
 
+}
+
+/* ====== Medium Screens ============= */
+
+@media(min-width:769px) and (max-width:1024px){
+
+    .header .container .nav-menu{
+        display: none;
+    }
+    .header .container .nav-menu a{
+    font-size: 16px;
+    font-weight: 500;
+    transition: all .3s;
+    color: var(--primary-color);
+    }
+    .header .container .nav-menu .btn-cta:hover{
+        background-color: var(--link-colors-light);
+        color: var(--white-color);
+    }
+    .header .container .nav-menu a:hover{
+    color: var(--link-colors);
+    }
+    .header .container .hamburger{
+        display: flex;
+    }   
+    #hero{
+        width: 100vw;
+    }
+    #hero .hero{
+        display: none;
+        
+    }
+
+   
+    #hero .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #hero .hero-content{
+        padding: 50px ;
+        width: 80%;
+        right: 30%;
+    }
+    #hero .hero-content h1{
+        margin-top: 100px;
+        font-size: 50px;
+        letter-spacing: 1.3;
+    }
+    .section-title{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .skills-cards{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    .course-cards{
+        grid-template-columns: repeat(2, 1fr);
+        gap:20px;
+    }
+    
+    #courses .welcome{
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 20px;
+    }
+    #courses .welcome .welcome-message{
+        width: 100%;
+    }
+    #courses .top-category .category-title{
+        width: 100%;
+    }
+    #courses .top-category .top-category-cards{
+        /* display: grid; */
+        grid-template-columns: repeat(3, 1fr);
+        gap:30px;
+    }
+
+
+
+    /* ================ From Ahmed Part =================== */
+    .main-grid{
+        grid-template-columns: 1fr;
+    }
+    .video-side{
+        order: 2;
+        margin-top: 0;
+    }
+    .expert{
+        grid-template-columns: 1fr 1fr;
+    }
+    .main-8 .blog .blog-items{
+        grid-template-columns: 1fr 1fr;
+    }
+    .contant-menu{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+    .main-deffrence{
+        margin-left: 3rem;
+    }
+    .main-8 .blog .blog-items .blog-item .image-blog{
+        width: 100%;
+        height: auto;
+        /* width: 500px; */
+    }
+    .contant-menu{
+        display: flex;
+        flex-direction: column;
+        top: 10%;
+        max-width: 100%;
+    }
+    .form-contant{
+        width: auto;
+    }
+    .row input,
+    .row textarea {
+       padding: 10px 15px;
+       width: 100%;
+    }
+    .row textarea{
+        height: 100px;
+        margin-bottom: 10px;
+    }
+    .row #subject,
+    .row .input-top,
+    .row textarea
+    {
+        width: 120%;
+    }
+    .content-img img{
+        height: 700px;
+        padding-bottom: 3rem;
+    }
+    .contant-menu .text-contant p{
+        margin-bottom: 2.4rem;
+    }
+    #btn-input{
+        display: flex;
+        justify-content: flex-start;
+        left: 34%;
+    }
+    .foot-gifl{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    .footer-widget-1{
+        grid-column: 1 / span 1
+    }
+    /* ================ From Ahmed Part =================== */
+ 
+}
+
+
+/* ====== Large Screens ============= */
+
+@media(min-width:1025px){
+    .header .container .nav-menu{
+        /* display: none; */
+    }
 }
