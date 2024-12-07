@@ -54,7 +54,7 @@ This project was developed by **batch two of Group C** to enhance access to qual
 ## Visual Overview  
 
 ### Screenshot  
-![Screenshot](image-1.jpeg)  
+![Screenshot](Screenshot 2024-12-07 161704.png)
 
 ---
 
