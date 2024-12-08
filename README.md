@@ -72,9 +72,7 @@ Together, we worked to ensure a seamless user experience and a responsive design
 
 The platform is hosted on **Vercel**. To explore the system, visit:  
 
-```bash  
-https://online-learning-one.vercel.app/  
-```  
+[Online Course Management System](https://online-learning-one.vercel.app/)
 
 ## Acknowledgements  
 
