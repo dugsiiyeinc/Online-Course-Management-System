@@ -78,17 +78,7 @@ https://online-learning-one.vercel.app/
 
 ## Acknowledgements  
 
-We extend our gratitude to the following:  
-
-## 👥 Collaborators  
-This project was developed collaboratively using **HTML** and **CSS** by:
-- **Mohamed Hassan Farah** – Team Leader, responsible for project direction and overall coordination.  
-- **Ahmed Abdisalaan Salah** – Partner, focused on implementing and designing key frontend features.   
-
-Together, we worked to ensure a seamless user experience and a responsive design for the platform.
-
----
-
+We extend our gratitude to the following:
 ### 👨‍💻**Mentor**  
 - **Omartood**: Offered strategic advice and mentorship throughout the project.  
 
