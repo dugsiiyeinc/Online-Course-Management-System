@@ -1,25 +1,24 @@
-
----
-
-# Online Course Management System  
+# Online Course Management System 🎓 
 Welcome to the **Online Course Management System**, a platform built to simplify online learning and course management. Our goal is to provide a seamless experience for users to explore, enroll in, and manage courses while staying updated through our blog and mentor guidance.  
 
 ---
 
-## Project Overview  
+## 🔎Project Overview & 👥 Collaborators  
 
-This project was developed by **batch three of Group C** to enhance access to quality online education.  
+This project was developed by **batch three of Group C** to enhance access to quality online education.
 
 ### Team Members:  
-- **Mohamed Hassan Farah** – Team Leader, overseeing project coordination and development.  
-- **Ahmed Abdisalaan Salah** – Lead Developer, focused on backend and course management features.  
+- **Mohamed Hassan Farah** – Team Leader, responsible for project direction and overall coordination.  
+- **Ahmed Abdisalaan Salah** – Partner, focused on implementing and designing key frontend featuresusing **HTML** and **CSS**
 
-**Mentor:**  
+### 👨‍💻**Mentor**  
 - **Omartood** – Provided strategic advice and continuous support throughout the project.  
+
+Together, we worked to ensure a seamless user experience and a responsive design for the platform.
 
 ---
 
-## Features  
+## 🌟 Features  
 
 - **Course Management**: Easily browse and enroll in courses.  
 - **Blog**: Access articles and resources on online learning and education trends.  
@@ -29,7 +28,7 @@ This project was developed by **batch three of Group C** to enhance access to qu
 
 ---
 
-## Website Sections  
+## 🗂️ Website Sections 
 
 ### 1. **Home**  
    The landing page introducing the platform, highlighting features and key benefits.  
@@ -51,7 +50,7 @@ This project was developed by **batch three of Group C** to enhance access to qu
 
 ---
 
-## Visual Overview  
+## 🔎Visual Overview  
 
 ### Screenshot  
 ![Screenshot](Screenshot 2024-12-07 161704.png)
@@ -69,13 +68,11 @@ This project was developed by **batch three of Group C** to enhance access to qu
 
 ---
 
-## Deployment  
+## 🚀 Deployment  
 
 The platform is hosted on **Vercel**. To explore the system, visit:  
 
-```bash  
-https://acme-lake.vercel.app/  
-```  
+[Online Course Management System](https://acme-lake.vercel.app/)  
 
 ---
 
@@ -83,25 +80,41 @@ https://acme-lake.vercel.app/
 
 We extend our gratitude to the following:  
 
-### **Team Members**  
-- **Mohamed Hassan Farah**: Led the project, ensuring smooth collaboration and development progress.  
-- **Ahmed Abdisalaan Salah**: Focused on backend functionalities and implementing the course enrollment system.  
+## 👥 Collaborators  
+This project was developed collaboratively using **HTML** and **CSS** by:
+- **Mohamed Hassan Farah** – Team Leader, responsible for project direction and overall coordination.  
+- **Ahmed Abdisalaan Salah** – Partner, focused on implementing and designing key frontend features.   
 
-### **Mentor**  
+Together, we worked to ensure a seamless user experience and a responsive design for the platform.
+
+---
+
+### 👨‍💻**Mentor**  
 - **Omartood**: Offered strategic advice and mentorship throughout the project.  
 
-### **Tools & Resources**  
+### 🛠️**Tools & Resources**  
 - **WhatFont**: Helped us select fonts for consistent visual appeal.  
 - **ColorZilla**: Ensured color consistency across all sections of the website.  
 
-### **Special Thanks**  
+### 🙏**Special Thanks**  
 - **Vercel**: For providing reliable hosting solutions.  
 - **Advisors and Supporters**: For their encouragement and constructive feedback.  
 
 ---
 
-## Tech Stack  
+## 💻 Tech Stack   
 
 - **Frontend**: HTML, CSS, JavaScript  
+- **Version Control**: Git & GitHub
+
+## 📜 License  
+This project is licensed under the MIT License. Feel free to use and modify it as needed.  
+
+---
+
+## 📬 Contact  
+For inquiries and suggestions:  
+- **Mohamed Hassan Farah**: [email@example.com](mailto:Email@example.com)  
+- **Ahmed Abdisalaan Salah**: [email@example.com](mailto:eldinshehab87@Gmail.com)  
 
 ---  
