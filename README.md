@@ -53,7 +53,7 @@ Together, we worked to ensure a seamless user experience and a responsive design
 ## 🔎Visual Overview  
 
 ### Screenshot  
-![Screenshot](Screenshot 2024-12-07 161704.png)
+![Screenshot](Screenshot%202024-12-07%20161704.png)
 
 ---
 
@@ -72,9 +72,9 @@ Together, we worked to ensure a seamless user experience and a responsive design
 
 The platform is hosted on **Vercel**. To explore the system, visit:  
 
-[Online Course Management System](https://acme-lake.vercel.app/)  
-
----
+```bash  
+https://online-learning-one.vercel.app/  
+```  
 
 ## Acknowledgements  
 
