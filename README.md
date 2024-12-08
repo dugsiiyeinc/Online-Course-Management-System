@@ -5,7 +5,7 @@ Welcome to the **Online Course Management System**, a platform built to simplify
 
 ## 🔎Project Overview & 👥 Collaborators  
 
-This project was developed by **batch three of Group C** to enhance access to quality online education.
+This project was developed by **batch-Two of Group C** to enhance access to quality online education.
 
 ### Team Members:  
 - **Mohamed Hassan Farah** – Team Leader, responsible for project direction and overall coordination.  
