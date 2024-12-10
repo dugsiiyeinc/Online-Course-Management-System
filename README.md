@@ -106,3 +106,7 @@ For inquiries and suggestions:
 - **Ahmed Abdisalaan Salah**: [email@example.com](mailto:eldinshehab87@Gmail.com)  
 
 ---  
+### Conclusion
+- **Heartfelt thanks to the Dugsiiye Team, especially our esteemed teacher, Mc Hoamuda.**
+
+---
