@@ -103,6 +103,10 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 ## 📬 Contact  
 For inquiries and suggestions:  
 - **Mohamed Hassan Farah**: [mxasan16@gmail.com] 
-- **Ahmed Abdisalaan Salah**: [email@example.com](mailto:eldinshehab87@Gmail.com)  
+- **Ahmed Abdisalaan Salah**: [eldinshehab8@Gmail.com]  
 
 ---  
+### Conclusion
+- **Heartfelt thanks to the Dugsiiye Team, especially our esteemed teacher, Mc Hoamuda.**
+
+---
